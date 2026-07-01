@@ -137,7 +137,6 @@ h1,h2,h3,h4{color:var(--navy);font-weight:700;line-height:1.2}
 /* floating badges */
 .float-badge{position:absolute;display:flex;align-items:center;gap:7px;padding:9px 15px;border-radius:50px;background:var(--card);border:1px solid var(--card-border);backdrop-filter:blur(12px);box-shadow:var(--shadow);font-size:.8rem;font-weight:600;color:var(--navy);animation:floatY 5s ease-in-out infinite}
 .float-badge i{color:var(--indigo)}
-.fb-1{top:6%;left:-6%;animation-delay:-.5s}
 .fb-2{top:30%;right:-10%;animation-delay:-1.5s}
 .fb-3{bottom:24%;left:-10%;animation-delay:-2.5s}
 .fb-4{bottom:2%;right:-4%;animation-delay:-3.5s}
